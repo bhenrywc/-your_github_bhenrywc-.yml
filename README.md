@@ -10,9 +10,9 @@ skin: "blue"
 # Personal Information
 basic_info:
 
-    # Your full name
-    first_name: Wonder
-    last_name: Woman
+    #Brandon Henry
+    first_name: Brandon
+    last_name: Henry
     
     # Define yourself in 4-5 words
     motto: I like saving the world
